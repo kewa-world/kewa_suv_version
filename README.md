@@ -1,10 +1,12 @@
 # KEWA SUV - Клиент
 *Официальная модифицированная версия Minecraft для игры на сервере KEWA SUV.*
 
+[➜ *Релизы версий*](https://github.com/kewa-world/kewa_suv_version/releases)<br/>
+[➜ *Ручная установка*](https://github.com/kewa-world/kewa_suv_version/tree/main/%D0%93%D0%BE%D0%BB%D0%BE%D1%81%D0%BE%D0%B2%D0%BE%D0%B9%20%D1%87%D0%B0%D1%82)<br/>
+
 - **Голосовой чат** - ручная установка голосового чата (Forge или Fabric). Установка производится в папку "mods" в папке ".minecraft".<br/>
 - **KEWA SUV Lite** - версия для слабых компьютеров. В данной версии присутствуют только моды на увеличение FPS и голосовой чат.<br/>
 - **KEWA SUV** - В данной версии, помимо голосового чата, присутствуют моды на визуальные улучшения, которые не дают сильной нагрузки на компьютер.<br/>
 - **KEWA SUV Plus** - В данной версии, помимо голосового чата, присутствуют некоторые визуальные улучшения, которые могут давать нагрузку на компьютер.<br/>
 
-[➜ *Релизы версий*](https://github.com/kewa-world/kewa_suv_version/releases)<br/>
-[➜ *Ручная установка*](https://github.com/kewa-world/kewa_suv_version/tree/main/%D0%93%D0%BE%D0%BB%D0%BE%D1%81%D0%BE%D0%B2%D0%BE%D0%B9%20%D1%87%D0%B0%D1%82)<br/>
+_[Copyright © KEWA 2021](https://minecraft.kewa-world.ru)_
